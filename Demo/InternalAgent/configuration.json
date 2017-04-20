@@ -1,0 +1,20 @@
+{
+  "proxy": {
+    "address": "serverAddress (i.e. 173.203.204.123)",
+    "port": "8080",
+    "secure": "true"
+  },
+  "devices": [
+    {
+      "address": "deviceAddress (i.e. 192.168.1.10)",
+      "port": "devicePort (i.e. 12345)",
+      "resources": [
+        "resource1",
+        "resource2",
+        "resource3",
+        "resource4",
+        "resource5"
+      ]
+    }
+  ]
+}

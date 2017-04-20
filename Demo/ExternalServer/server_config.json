@@ -1,0 +1,8 @@
+{
+  "proxy": {
+    "port": "8080",
+    "secure": "true",
+    "user": "aUser",
+    "password": "aPassword"
+  }
+}
